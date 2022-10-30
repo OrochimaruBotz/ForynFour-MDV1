@@ -1,10 +1,9 @@
 let fs = require('fs')
 let handler = async (m, { conn }) => {
-let krizyn = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg'
+let krizyn = 'https://telegra.ph/file/da06a9577ab822b378f6d.jpg'
 let kri = `┌─── 〔 TUTORIAL RUN BOT 〕 ───
 ❍  UPLOAD SCRIPT BOT KE GITHUB
 ❍ TUTORIAL UPLOAD ADA DI YOUTUBE
-❍ YOUTUBE ADA DI FITUR #SOSMED
 ❍ ATAU CARI SCRIPT BOT DIGITHUB
 ❍ SETELAH ITU PENCET FORK DI SCRIPT TERSEBUT
 ❍ LALU DEPLOY KE HEROKU
@@ -20,7 +19,7 @@ let kri = `┌─── 〔 TUTORIAL RUN BOT 〕 ───
 ❍ DAN ADA JUGA YNG MENUAL
 ❍ SETELAH KALIAN TEKAN KEDUA NYA
 ❍ BOT AKAN BERJALAN DENGAN SEMPURNA
-❍ SELAMAT MENCOBA MYPREN
+❍ SELAMAT MENCOBA MYPREN😈
 `
   conn.send3ButtonImg(m.chat, krizyn, kri, "📮 Silahkan pilih Salah Satu dibawah ini", 'Sosmed', '.sosmed', 'Sewa', '.sewa', 'Menu', '.menu', m) 
 }
