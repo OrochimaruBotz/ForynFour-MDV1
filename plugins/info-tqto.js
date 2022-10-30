@@ -25,6 +25,8 @@ let ofc = ` ${hki} THANKS CREATOR ${hka}
     📮 https://github.com/Hyzerr
 ⤿ Krizyn Ofc
     📮 https://github.com/krizynofc
+⤿ Humanz
+    📮 https://github.com/OrochimaruBotz
     
 THANKS PARA DONASI YANG TERHORMAT`
 
